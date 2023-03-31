@@ -16,4 +16,4 @@ For Noobs in Combat [4.7]
 
 Created by Sora
 ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SoraAurora/Roblox_5734383673_Autofarm/main/SoraHub_Noobs_in_Combat_AutoFarm.lua"))()
+loadstring(game:HttpGet("https://github.com/SoraAurora/Noobs_in_Combat_AutoFarm/blob/main/SoraHub_Noobs_in_Combat_AutoFarm.lua"))()
