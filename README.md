@@ -1,5 +1,5 @@
-# Roblox_5734383673_Autofarm
-AutoFarm for Noobs in Combat game link : https://www.roblox.com/games/5734383673/Noobs-in-combat-4-7
+# AutoFarm for Noobs in Combat game link : https://www.roblox.com/games/5734383673/Noobs-in-combat-4-7
+Game ID : 5734383673
 # How to Use?
 # Step 1
 Download SoraHub_Noobs_in_Combat_Load.lua
