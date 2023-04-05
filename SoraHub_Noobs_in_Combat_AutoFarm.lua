@@ -1,3 +1,7 @@
+if not game:IsLoaded() then
+	game.Loaded:Wait()
+end
+
 local players = game.Players:GetPlayers()
 local playercount = 0
 
@@ -15,7 +19,7 @@ getgenv().autofarm = true
 				Duration = 5
 			})
 
-			wait(10)
+			wait(5)
 			game:GetService("StarterGui"):SetCore("SendNotification",{
 				Title = "Teleporting...", -- Required
 				Text = "Teleporting to the end of map", -- Required
